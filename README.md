@@ -9,4 +9,4 @@ This challenge is framed around a realistic binary classification problem, ideal
 ## 🚀 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/loan-approval-prediction.git
+git clone https://github.com/Franklin7660/loan_prediction_DS52
