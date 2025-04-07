@@ -1,4 +1,4 @@
-# 🏦 Loan Approval Prediction – Kaggle Playground Series S4E10
+# 🏦  Loan Approval Prediction – Kaggle Playground Series S4E10
 This repository contains the work done for a university data science project based on the Kaggle competition: Playground Series - Season 4, Episode 10.
 
 ## 📚 Project Overview
