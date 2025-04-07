@@ -9,14 +9,14 @@ This challenge is framed around a realistic binary classification problem, ideal
 ## 🚀 Getting Started
 Clone the repository:
 
-bash
+```bash
 Copier
 Modifier
 git clone https://github.com/yourusername/loan-approval-prediction.git
 cd loan-approval-prediction
 Install dependencies:
 
-bash
+```bash
 Copier
 Modifier
 pip install -r requirements.txt
