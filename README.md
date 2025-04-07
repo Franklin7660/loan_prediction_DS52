@@ -1,5 +1,5 @@
 # 🏦  Loan Approval Prediction – Kaggle Playground Series S4E10
-This repository contains the work done for a university data science project based on the Kaggle competition: Playground Series - Season 4, Episode 10.
+This repository contains the work done for a university data science project based on the Kaggle competition: Playground Series - Season 4, Episode 10: https://www.kaggle.com/competitions/playground-series-s4e10
 
 ## 📚 Project Overview
 The goal of this project is to build a machine learning model capable of predicting whether a loan will be approved or not, based on applicant and financial information.
