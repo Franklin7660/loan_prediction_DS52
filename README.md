@@ -6,8 +6,7 @@ The goal of this project is to build a machine learning model capable of predict
 
 This challenge is framed around a realistic binary classification problem, ideal for practicing data preprocessing, feature engineering, model selection, and evaluation techniques.
 
-## 🚀 Getting Started
-Clone the repository:
+## 🚀 Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/loan-approval-prediction.git
