@@ -10,16 +10,4 @@ This challenge is framed around a realistic binary classification problem, ideal
 Clone the repository:
 
 ```bash
-Copier
-Modifier
 git clone https://github.com/yourusername/loan-approval-prediction.git
-cd loan-approval-prediction
-Install dependencies:
-
-```bash
-Copier
-Modifier
-pip install -r requirements.txt
-Run the notebook or scripts in the src/ folder.
-
-
